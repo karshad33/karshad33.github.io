@@ -21,7 +21,7 @@ description: Ben Harvey's assignments
 
 ### EMSE 6992 Assignments
 ####  <a name="Assignment1"></a>Assignment1
-##### <a name="datamanipulationandaggregation"></a>data maniuplation and aggregation
+##### <a name="Testing to see if it works"></a>data maniuplation and aggregation
 * [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
 
 {Add description of example an assignment here}
