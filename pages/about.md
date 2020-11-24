@@ -22,7 +22,7 @@ description: Kamran Arshad is...
 
 
 #### <a name="cvandresume"></a>cv and resume
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Kamran_Arshad_Resume_May2020.pdf)
+[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Kamran_Arshad_Resume_May2020_Dl.pdf)
 
 ---
 
