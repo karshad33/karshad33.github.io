@@ -13,21 +13,23 @@ description: My Course List
     </div>
 </div>
 
+---
 
+
+
+
+- [Site](https://karshad33.github.io/)
+- [My Portfolio](https://karshad33.github.io/)
+- [Assignments](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/SEAS6401_Assignments)
+
+---
 ### <a name="current"></a>Current courses
 
 #### [Data Analytics Introduction and Practicum](http://karshad33.github.io) (SEAS 6401; Fall, 2020)
 
-- [Site](https://karshad33.github.io/)
-- [My Portfolio](https://karshad33.github.io/)
-- [Assignments](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/SEAS6401_Assignments)
-
 
 #### [Programming for Data Analytics](http://karshad33.github.io) (EMSE6574; Fall, 2020)
 
-- [Site](https://karshad33.github.io/)
-- [My Portfolio](https://karshad33.github.io/)
-- [Assignments](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/SEAS6401_Assignments)
 
 ---
 
