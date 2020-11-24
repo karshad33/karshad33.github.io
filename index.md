@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Kamran Arshad
-description: Kamran Arshad is a student
+description: Kamran Arshad
 keywords: statistics, data analytics
 ---
 
