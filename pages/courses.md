@@ -1,15 +1,13 @@
 ---
 layout: page
 title: courses
-description: Student's Courses
+description: My Course List
 ---
 
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="#current">current courses</a></li>
-            <li><a href="#shortcourses">short courses</a></li>
-            <li><a href="#misc">misc lectures</a></li>
             <li><a href="#old">former courses</a></li>
         </ul>
     </div>
@@ -18,23 +16,21 @@ description: Student's Courses
 
 ### <a name="current"></a>Current courses
 
-#### [Data Analytics Introduction and Practicum](http://bsharvey.github.io) (EMSE 6992; Fall, 2017)
+#### [Data Analytics Introduction and Practicum](http://karshad33.github.io) (SEAS 6401; Fall, 2020)
 
-- [Site](https://bsharvey.github.io/)
-- [My Portfolio](https://username.github.io/)
-- [Assignments](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Assignments)
-- [Labs](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Labs)
+- [Site](https://karshad33.github.io/)
+- [My Portfolio](https://karshad33.github.io/)
+- [Assignments](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/SEAS6401_Assignments)
 
----
 
-### <a name="shortcourses"></a>Short courses
+#### [Programming for Data Analytics](http://karshad33.github.io) (EMSE6574; Fall, 2020)
 
----
-
-### <a name="misc"></a>Miscellaneous lectures
-
+- [Site](https://karshad33.github.io/)
+- [My Portfolio](https://karshad33.github.io/)
+- [Assignments](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/SEAS6401_Assignments)
 
 ---
 
 ### <a name="old"></a>Former courses
 
+- Additional Courses will be added over time
