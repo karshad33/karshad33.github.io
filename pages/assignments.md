@@ -19,7 +19,7 @@ description: Course Assignments
 </div>
 
 
-### EMSE 6992 Assignments
+### SEAS 6401 Assignments
 ####  <a name="Assignment1"></a>Assignment1
 ##### <a name="Just Enough for Spark (JEFS) and Databricks"></a>Just Enough for Spark (JEFS) and Databricks
 * [Assignment 1]({{ BASE_PATH }}/assets/Kamran_Assignment1.dbc)
