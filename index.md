@@ -10,7 +10,6 @@ keywords: statistics, data analytics
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/Kamran_Arshad_Resume_May2020_Dl.pdf">cv</a></li>
           <li><a href="https://github.com/karshad33">github</a></li>
-          <li><a href="http://kbroman.org/blog">blog</a></li>
           <li><a href="https://www.linkedin.com/in/karshad33/">LinkedIn</a></li>
       </ul>
   </div>
