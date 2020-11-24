@@ -1,7 +1,7 @@
 ---
 layout: page
 title: labs & assignments
-description: Ben Harvey's assignments
+description: Course Assignments
 ---
 
 
@@ -12,8 +12,8 @@ description: Ben Harvey's assignments
             <li><a href="#Assignment2">Assignment2</a></li>
             <li><a href="#Assignment3">Assignment3</a></li>
             <li><a href="#Assignment4">Assignment4</a></li>
-            <li><a href="#ExtraCredit">Extra Credit Assignment</a></li>
-            <li><a href="#labassignments">Lab Assignments</a></li>
+            <li><a href="#ProjectProposal">Project Proposal</a></li>
+            <li><a href="#FinalProject">Final Project</a></li>
         </ul>
     </div>
 </div>
@@ -21,127 +21,35 @@ description: Ben Harvey's assignments
 
 ### EMSE 6992 Assignments
 ####  <a name="Assignment1"></a>Assignment1
-##### <a name="Testing to see if it works"></a>data maniuplation and aggregation
-* [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
+##### <a name="Just Enough for Spark (JEFS) and Databricks"></a>Just Enough for Spark (JEFS) and Databricks
+* [Assignment 1]({{ BASE_PATH }}/assets/Kamran_Assignment1.dbc)
 
-{Add description of example an assignment here}
--
--
--
--
--
--
--
--
--
--
--
-
-##### <a name="visualization"></a>visualization
-* [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
-
-{Add description of example an assignment here}
-
-Results | Repository
----|---
-[assignment1 results]()| [assignment1 repositiory]()
-
----
 
 
 ####  <a name="Assignment2"></a>Assignment2
-##### <a name="scientificcomputing"></a>scientific computing
-* [Lab: Scikit-Learn, Regression, PCA](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab4/Lab4full.ipynb)
-
-{Add description of example an assignment here}
-
-
-##### <a name="statisticalanalysis"></a>statistic alanalysis
-* [Lab: Bias, Variance, Cross-Validation](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab5/Lab5.ipynb)
-* [Lab: Bayes, Linear Regression, and Metropolis Sampling](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Labs/lab6)
-
-{Add description of example an assignment here}
-
-| Results                | Repository                 |
-| ---------------------- |:--------------------------:|
-| [assignment2 results]()| [assignment2 repositiory]()|
-
----
-
-
-####  <a name="Assignment3"></a>Assignment3
-##### <a name="deeplearning"></a>machine learning part1
-* [Lab: Neural Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab10/Lab_10.ipynb)
-
-{Add description of example an assignment here}
-
-
-##### <a name="machinelearning"></a>machine learning part2
-* [Lab: Support Vector Machines](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab10/Lab_10.ipynb)
-
-{Add description of example an assignment here}
-
-
-| Results                | Repository                 |
-| ---------------------- |:--------------------------:|
-| [assignment3 results]()| [assignment3 repositiory]()|
-
----
+##### <a name="ML with Spark and Scalable NLP"></a>ML with Spark and Scalable NLP
+* [Assignment 2]({{ BASE_PATH }}/assets/Kamran_Assignment1.dbc)
 
 
 
-####  <a name="Assignment4"></a>Assignment4
-##### <a name="networkanalysis"></a>network analysis
-* [Lab: Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab9/lab_9_with_answers.ipynb)
-
-{Add description of example an assignment here}
+####  <a name="Assignment2"></a>Assignment3
+##### <a name="Deep Learning and Reinforcement Learning "></a>Deep Learning and Reinforcement Learning 
+* [Assignment 3]({{ BASE_PATH }}/assets/Kamran_Assignment1.dbc)
 
 
-##### <a name="bigdataanalytics"></a>big data analytics
-* [Lab: MapReduce](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab8/lab8_mapreduce.ipynb)
-
-{Add description of example an assignment here}
-
-
-| Results                | Repository                 |
-| ---------------------- |:--------------------------:|
-| [assignment4 results]()| [assignment4 repositiory]()|
-
----
-
-
-####  <a name="ExtraCredit"></a>Extra Credit Assignment
-##### <a name="webscraping"></a>webs craping
-* [Lab: Web Scraping](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab2/Lab_2_A_Johanna.ipynb)
-
-{Add description of example an assignment here}
-
-
-##### <a name="textprocessing"></a>sampling and text processing
-* [Lab: Sampling and Text Processing ](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab7/GibbsSampler.ipynb)
-
-{Add description of example an assignment here}
-
-
-| Results                | Repository                 |
-| ---------------------- |:--------------------------:|
-| [Extra Credit results]()| [Extra Credit repositiory]()|
-
----
-
-
-#### EMSE 6992 Labs
-##### <a name="labassignments"></a>lab assignments
-
-* [Web Scraping](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab2/Lab_2_A_Johanna.ipynb)
-* [Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
-* [Scikit-Learn, Regression, PCA](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab4/Lab4full.ipynb)
-* [Bias, Variance, Cross-Validation](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab5/Lab5.ipynb)
-* [Bayes, Linear Regression, and Metropolis Sampling](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Labs/lab6)
-* [Support Vector Machines](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab10/Lab_10.ipynb)
-* [Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab9/lab_9_with_answers.ipynb)
-* [MapReduce](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab8/lab8_mapreduce.ipynb)
+####  <a name="Assignment2"></a>Assignment4
+##### <a name=" Tuning and Streaming"></a>Tuning and Streaming
+* [Assignment 4]({{ BASE_PATH }}/assets/Kamran_Assignment1.dbc)
 
 
 
----
+####  <a name="Project Proposal"></a>Project Proposal
+* [Project Proposal]({{ BASE_PATH }}/assets/Kamran_Assignment1.dbc)
+
+
+####  <a name="FinalProject"></a>Final Project
+
+* [FinalProject]({{ BASE_PATH }}/assets/Kamran_Assignment1.dbc)
+
+
+
